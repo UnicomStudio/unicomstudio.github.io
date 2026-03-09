@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Unicom Studio"
-  text: "创新与灵感的交汇处"
-  tagline: "Unicom 数字创意工作室"
+  name: "Newicom"
+  text: "连接无界，创想未来"
+  tagline: "大D他瘋了，要搞個新和連勝！"
   actions:
     - theme: brand
       text: 作品展示
@@ -15,7 +15,7 @@ hero:
       link: /services
   image:
     src: /Unicom.svg
-    alt: "Unicom Studio"
+    alt: "Newicom"
 
 features:
   - title: 创意设计

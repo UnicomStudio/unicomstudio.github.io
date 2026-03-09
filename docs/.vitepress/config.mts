@@ -2,10 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Unicom Studio",
+  title: "Newicom",
   description: "Studio for Unicom",
   head: [
     ['link', { rel: "shortcut icon", href: "/Unicom.ico"}],
+    ['link', { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/@callmebill/lxgw-wenkai-web@latest/style.css"}],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
