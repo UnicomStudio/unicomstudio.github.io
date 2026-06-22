@@ -8,27 +8,20 @@ hero:
   tagline: "大D他瘋了，要搞個新和連勝！"
   actions:
     - theme: brand
-      text: 作品展示
-      link: /projects
+      text: 开源项目
+      link: https://github.com/UnicomStudio
     - theme: alt
-      text: 服务介绍
-      link: /services
+      text: 作者简介
+      link: https://easternday.top/
   image:
     src: /Unicom.svg
     alt: "Newicom"
 
 features:
-  - title: 创意设计
-    details: 提供前沿的视觉设计与用户体验，为您的项目增添无限魅力。
-  - title: 数字营销
-    details: 精准定位目标群体，运用大数据分析，打造高效营销策略。
-  - title: 定制开发
-    details: 从需求分析到产品上线，全方位定制软件解决方案。
-  - title: 云计算服务
-    details: 弹性云服务器与存储解决方案，保障业务稳定运行与数据安全。
-  - title: UI/UX设计
-    details: 专注于用户界面与体验设计，确保产品既美观又易用。
-  - title: 技术咨询
-    details: 行业专家一对一咨询，为企业提供技术路线规划与支持。
+  - icon: 🤖
+    title: Android
+    details: ROM 开发指南、实用软件推荐，覆盖从设备树编写到系统定制的一站式资源。
+    link: /android/
+    linkText: 了解更多
 
 ---
